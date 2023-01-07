@@ -1,2 +1,1 @@
-# OX
-Tic Tac Toe
+# noughts-and-crosses-skeleton
